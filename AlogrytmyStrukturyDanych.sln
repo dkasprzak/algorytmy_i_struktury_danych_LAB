@@ -5,6 +5,8 @@ VisualStudioVersion = 17.0.31903.59
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnapsackProblem", "KnapsackProblem\KnapsackProblem.csproj", "{55939CF4-A844-41E7-8F05-AEEA7BBEB347}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAllocationProblem", "TaskAllocationProblem\TaskAllocationProblem.csproj", "{95CFE14C-650C-4FCB-845C-B93979A00DEF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{55939CF4-A844-41E7-8F05-AEEA7BBEB347}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55939CF4-A844-41E7-8F05-AEEA7BBEB347}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55939CF4-A844-41E7-8F05-AEEA7BBEB347}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95CFE14C-650C-4FCB-845C-B93979A00DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95CFE14C-650C-4FCB-845C-B93979A00DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95CFE14C-650C-4FCB-845C-B93979A00DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95CFE14C-650C-4FCB-845C-B93979A00DEF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

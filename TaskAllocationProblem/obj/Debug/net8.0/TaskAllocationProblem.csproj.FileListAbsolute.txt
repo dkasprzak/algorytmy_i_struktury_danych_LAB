@@ -1,0 +1,15 @@
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\bin\Debug\net8.0\TaskAllocationProblem.exe
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\bin\Debug\net8.0\TaskAllocationProblem.deps.json
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\bin\Debug\net8.0\TaskAllocationProblem.runtimeconfig.json
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\bin\Debug\net8.0\TaskAllocationProblem.dll
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\bin\Debug\net8.0\TaskAllocationProblem.pdb
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.AssemblyInfoInputs.cache
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.AssemblyInfo.cs
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.csproj.CoreCompileInputs.cache
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.sourcelink.json
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.dll
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\refint\TaskAllocationProblem.dll
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.pdb
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\TaskAllocationProblem.genruntimeconfig.cache
+D:\Projects\algorytmy_i_struktury_danych_LAB\TaskAllocationProblem\obj\Debug\net8.0\ref\TaskAllocationProblem.dll

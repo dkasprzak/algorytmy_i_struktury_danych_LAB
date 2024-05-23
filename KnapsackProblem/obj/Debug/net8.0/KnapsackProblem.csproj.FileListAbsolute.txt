@@ -1,0 +1,14 @@
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\bin\Debug\net8.0\KnapsackProblem.exe
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\bin\Debug\net8.0\KnapsackProblem.deps.json
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\bin\Debug\net8.0\KnapsackProblem.runtimeconfig.json
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\bin\Debug\net8.0\KnapsackProblem.dll
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\bin\Debug\net8.0\KnapsackProblem.pdb
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\KnapsackProblem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\KnapsackProblem.AssemblyInfoInputs.cache
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\KnapsackProblem.AssemblyInfo.cs
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\KnapsackProblem.csproj.CoreCompileInputs.cache
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\KnapsackProblem.dll
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\refint\KnapsackProblem.dll
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\KnapsackProblem.pdb
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\KnapsackProblem.genruntimeconfig.cache
+D:\Projects\algorytmy_i_struktury_danych_LAB\KnapsackProblem\obj\Debug\net8.0\ref\KnapsackProblem.dll

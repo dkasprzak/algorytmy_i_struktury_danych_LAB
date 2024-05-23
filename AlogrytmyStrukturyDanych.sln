@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KnapsackProblem", "Knapsack
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskAllocationProblem", "TaskAllocationProblem\TaskAllocationProblem.csproj", "{95CFE14C-650C-4FCB-845C-B93979A00DEF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TravelingSalesmanProblem", "TravelingSalesmanProblem\TravelingSalesmanProblem.csproj", "{2AF52224-FBA0-4307-B7EF-25DE437F73BC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{95CFE14C-650C-4FCB-845C-B93979A00DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{95CFE14C-650C-4FCB-845C-B93979A00DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{95CFE14C-650C-4FCB-845C-B93979A00DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AF52224-FBA0-4307-B7EF-25DE437F73BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AF52224-FBA0-4307-B7EF-25DE437F73BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AF52224-FBA0-4307-B7EF-25DE437F73BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AF52224-FBA0-4307-B7EF-25DE437F73BC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
